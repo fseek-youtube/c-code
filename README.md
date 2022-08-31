@@ -1,2 +1,1 @@
-# c-code
-c code examples from fseek YouTube channel
+# c examples from fseek YouTube channel
